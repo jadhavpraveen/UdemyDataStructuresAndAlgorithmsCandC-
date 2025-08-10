@@ -12,5 +12,6 @@ public class SparseMatrix {
         this.col = col;
         this.numberOfElements = numberOfElements;
         element = new Element[this.numberOfElements];
+
     }
 }
