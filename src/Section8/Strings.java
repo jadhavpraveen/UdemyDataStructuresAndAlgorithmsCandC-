@@ -15,6 +15,7 @@ public class Strings {
         duplicatesInString("finding");
         if(isAnagram("observe", "sebrveo")) System.out.println("Strings are Anagram");
         else System.out.println("Strings are not Anagram");
+
     }
     public static void lengthOfString()
     {
